@@ -1,5 +1,4 @@
-# utkarshini-task
-the simple task given by utkarshini mam 
+
 # How to start localserver 
 clone this project to your local pc/laptop 
 then open backend folder in terminal/cmd 
